@@ -1,0 +1,43 @@
+<html>
+<head>
+	<script type="text/javascript" src="signup.js">
+	</script>
+	<script type="text/javascript" src="all.js"></script>
+	<link rel="stylesheet" href = "login signup.css"></link>
+</head>
+<body style="background-color: rgb(225,225,225);">
+<div style = "margin: 0 auto; width: 640px;background-color: white"></br>
+	<form method="POST" action="all.php" style = "background-color:white">
+		<div class="imgcontainer">
+    	<img src="images/logo.png" alt="Data Chest" class="avatar">
+  		</div>
+
+		<div class = "container">
+			<label for="username"><b>Username</b></label>
+			<input type="text" id="username" onkeydown="chkName();" class="text" name="username" placeholder="Enter Username" required onblur="userExists(this.value)"><br/>   			
+			<span id="namemsg" style="font-size:12px">Please enter a valid user name.</span><br/><br/>
+
+			<label for="dob"><b>Date of Birth</b></label>
+			<input type="date" class="text" name="dob" placeholder="   ">
+
+			<label for="emailID" ><b>Email ID</b></label>
+			<input type="email" class="text" name="emailID" required>
+
+			<label for="password"><b>Password</b></label>
+			<input type="password" id="pass" onkeyup = "measurepass();" class="text" name="password"></br>
+			<span id="passmsg" style="font-size:12px">Please enter a strong password</span><br/></br>
+
+			<label for="confpass"><b>Confirm Password</b></label>
+			<input type="password" id="conpass" onkeyup="chkpass();" class="text" name ="confpass" required>
+			<span id="conpassmsg" style="font-size:12px">Re-Enter password</span><br/></br>
+			
+			<button type="button" value="Sign Up" id="submit" onclick="verifyForm();"style = "width:100%"> Sign Up</button>
+		</div>
+		<div class="container" style="background-color:#f1f1f1">
+			<a href="homepage.html"><button type="button" class="cancelbtn">Cancel</button></a>
+			<button type="reset" class="cancelbtn">Reset</button>
+		</div>
+			</form>
+		</div>
+	</body>
+</html>

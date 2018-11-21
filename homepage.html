@@ -1,0 +1,84 @@
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="home.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script type="text/javascript" src = 'all.js'></script>
+</head>
+<!--<body onload="chkLogged();" style="background-image: url(wallpaper.png)">-->
+<body onload="chkLogged();">
+	<div id="logo" style="background-color:rgb(255,155,55);margin: 0">
+		<img src="images/logo.png" height= 150px width=480px align = "middle" />
+		<div id = "ui" style = "position: absolute;top :30px;right:180px"></div>
+		<div id = "un" style = "position: absolute;top :90px;right:180px"></div>
+		<div id = "ud" style = "position: absolute;top :20px;right:0px; width: 170px" align="center"></div>
+		<div style="position: absolute;top: 105px; right: 135px" id="div1">
+			<span id="login"><a href="login.html"><button class="logsign"><b>Login</b></button></a></span>
+		</div>
+		<div style="position: absolute;top: 105px;right: 10px" id="div2">
+			<span id="signup"><a href="signup.html"><button class="logsign"><b>Sign up</b></button></a></span>
+		</div>
+	</div>
+
+
+	<div id="navigator" align="left" style="background-color:rgb(85,85,85);">
+		<a href="homepage.html"><button class="nav">Home</button></a>
+		<a href="#" id="datasheetlink"><button class="nav" onclick="attachLinks();">Datasets</button></a>
+		<a href="#" id="surveyslink"><button class="nav" onclick="attachLinks();">Surveys</button></a>
+		<button class="nav" onclick = "openAsk()">Ask</button></a>
+		
+		<div style='position: absolute;top:150px;right: 20px'>
+		
+			<a href="#" class="fa fa-facebook"></a>
+			<a href="#" class="fa fa-twitter"></a>
+			<a href="#" class="fa fa-google"></a>
+			<a href="#" class="fa fa-linkedin"></a>
+			<a href="#" class="fa fa-youtube"></a>
+			<a href="#" class="fa fa-instagram"></a>
+		</div>
+
+	</div>
+
+	
+	<br/>
+	<br/>
+
+	<div class="form-popup" id="askForm">
+ 		<form class="form-container" method="POST" action="all.php">
+		  	<button type="button" class="btn cancel" onclick="closeAsk()">&times</button>
+		    <h3>Ask Us</h3>
+		    <textarea placeholder="type here" name="query" rows="6" cols="35" required></textarea>
+		    <button type="submit" class="btn">Submit</button>
+	    </form>
+	</div>	
+
+	<div class="row">
+	  	<div class="column">
+		  	<img src = "images/datoin.png" height="70px" width = "70px" align = "left">
+		    <div class = "hdg"> Datoins </div><br>
+		    <p>Datoins? That is our onsite currency which your can earn by answering surveys for our surveys or uploading datasets to enrich our already huge data repository. You can spend it on downloading premium datasets or to upload your own surveys to get it answered by our other honest users.</p>
+			<p> Datoins... "Data-coins"! Get it? So get started...</p>
+		</div>
+  		<br>
+	  	<div class="column">
+		  	<img src = "images/dataset.png" height="80px" width = "80px" align = "left">
+		    <div class = "hdg"> Datasets </div><br>
+		    <p>A dataset is a collection of data. Most commonly a data set corresponds to the contents of a single database table, or a single statistical data matrix, where every column of the table represents a particular variable, and each row corresponds to a given member of the data set in question. </p>
+			<p>Try our whole range of Datasets and earn points to unlock premium ones! </p>
+		</div>
+	  <br>
+	  <div class="column">
+	  	<img src = "images/survey.png" height="80px" width = "80px" align = "left">
+	   <div class = "hdg"> Surveys </div><br>
+			<p>We give you options to upload your own surveys to get valuable results as well as take other surveys and give your valuable opinions.</p>
+			<p> Well, what are you waiting for? Give it a try.</p>
+	  </div>
+	</div>
+	<hr width=800>
+	<h3>About us</h3>
+
+	
+</body>
+</html>

@@ -1,0 +1,2 @@
+Which is your favorite animal? : Rabbit:Tiger:Lion:Human:animal
+Which is your favorite color? : Red:Blue:Green:None of these:color

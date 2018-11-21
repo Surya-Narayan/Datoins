@@ -1,0 +1,10 @@
+Rental Housing Finance Survey:1000:13:1.5Mb:zip_files/RHFS.zip
+Nonemployer Statistics:12000:6:4.1 Mb:zip_files/nonemp.zip
+North American Industry Classification System : 34000 : 17: 14.3 Mb : zip_files/NAICS.zip
+County Business Patterns: 800 : 8 : 683 kb :zip_files/countyBP.zip
+Income and Poverty in the United States 2017 : 53 : 7 : 49Kb :zip_files/Income_inequality.xls
+Education and School Enrollment : 93 : 9 : 4.8 Kb: zip_files/Education.csv
+American Indian and Alaska Native Tribes : 2400 : 6 : 166 Kb :zip_files/Nativetribe.csv
+Voting-Age Population :56:4:5.5Kb:zip_files/Voting.csv
+Disability Status of the Civilian : 140 : 8 : 4.7 Kb :zip_files/disability.csv
+Migration by Sex and Age for the Population 5 Years and Over : 788 : 12 : 16Kb:zip_files/migration.csv
