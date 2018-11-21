@@ -1,0 +1,4 @@
+1. Sudoku answering		Done
+2. AI text processing (i/o)
+3. Machine-learning Tic-Tac-Toe
+5. Image recognition
