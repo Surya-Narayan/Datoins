@@ -1,0 +1,55 @@
+Table with row headers in column A and column headers in rows 9 through 10.,,,,,,,,
+Census 2000 PHC-T-32.  Disability Status of the Civilian Noninstitutionalized Population by Sex and Selected Characteristics for the United States and Puerto Rico:	 2000,,,,,,,,
+Table 1.  Selected Types of Disability for the Civilian Noninstitutionalized Population 5 Years and Over by Age:  2000,,,,,,,,
+"Source:  U.S. Census Bureau, Census 2000.",,,,,,,,
+"Internet release date:  April 14, 2004.",,,,,,,,
+UNITED STATES,,,,,,,,
+(leading dots indicate sub-parts),,,,,,,,
+"[Data based on a sample.  For information on confidentiality, sampling errors, nonsampling error, and definitions, see www.census.gov/prod/cen2000/doc/sf3.pdf]",,,,,,,,
+Sex and Disability Status,5 years and over,,5 to 15 years,,16 to 64 years,,65 years and over,
+,Number,Percent,Number,Percent,Number,Percent,Number,Percent
+,,,,,,,,
+Both Sexes,"257,167,525",100.0,"45,133,665",100.0,"178,687,235",100.0,"33,346,625",100.0
+".With a sensory, physical, mental, or self-care disability","32,178,220",12.5,"2,614,920",5.8,"17,300,050",9.7,"12,263,250",36.8
+..With a self-care disability,"6,752,735",2.6,"419,020",0.9,"3,149,875",1.8,"3,183,840",9.5
+..No self-care disability,"25,425,485",9.9,"2,195,900",4.9,"14,150,175",7.9,"9,079,410",27.2
+.No disability of specified type,"224,989,310",87.5,"42,518,750",94.2,161387185,90.3,"21,083,375",63.2
+,,,,,,,,
+".With a sensory, physical, or mental disability","31,681,270",12.3,"2,538,610",5.6,"17,006,860",9.5,"12,135,800",36.4
+..All three disabilities,"2,027,750",0.8,"74,615",0.2,"743,160",0.4,"1,209,975",3.6
+..With two disabilities: sensory and physical,"2,486,615",1.0,"18,905",0.0,"809,655",0.5,"1,658,050",5.0
+..With two disabilities: sensory and mental,"688,150",0.3,"108,350",0.2,"328,260",0.2,"251,540",0.8
+..With two disabilities: physical and mental,"3,981,105",1.5,"161,755",0.4,"2,407,615",1.3,"1,411,735",4.2
+..With sensory disability only,"4,102,765",1.6,"241,020",0.5,"2,242,830",1.3,"1,618,915",4.9
+..With physical disability only,"12,656,040",4.9,"200,185",0.4,"7,189,935",4.0,"5,265,925",15.8
+..With mental disability only,"5,738,850",2.2,"1,733,780",3.8,"3,285,405",1.8,"719,665",2.2
+,,,,,,,,
+Men,"124,636,825",100.0,"23,125,325",100.0,"87,570,585",100.0,"13,940,920",100.0
+".With a sensory, physical, mental, or self-care disability","15,321,025",12.3,"1,666,230",7.2,"8,710,290",9.9,"4,944,505",35.5
+..With a self-care disability,"2,752,920",2.2,"244,825",1.1,"1,463,185",1.7,"1,044,910",7.5
+..No self-care disability,"12,568,110",10.1,"1,421,405",6.1,"7,247,105",8.3,"3,899,595",28.0
+.No disability of specified type,"109,315,800",87.7,"21,459,095",92.8,"78,860,290",90.1,"8,996,410",64.5
+,,,,,,,,
+".With a sensory, physical, or mental disability","15,092,275",12.1,"1,625,940",7.0,"8,565,310",9.8,"4,901,025",35.2
+..All three disabilities,"904,040",0.7,"42,190",0.2,"399,310",0.5,"462,540",3.3
+..With two disabilities: sensory and physical,"1,154,085",0.9,"9,495",0.0,"450,845",0.5,"693,745",5.0
+..With two disabilities: sensory and mental,"388,610",0.3,"66,840",0.3,"190,660",0.2,"131,115",0.9
+..With two disabilities: physical and mental,"1,688,800",1.4,"95,300",0.4,"1,097,045",1.3,"496,450",3.6
+..With sensory disability only,"2,361,310",1.9,"124,185",0.5,"1,347,305",1.5,"889,815",6.4
+..With physical disability only,"5,374,800",4.3,"104,870",0.5,"3,332,530",3.8,"1,937,400",13.9
+..With mental disability only,"3,220,635",2.6,"1,183,065",5.1,"1,747,615",2.0,"289,955",2.1
+,,,,,,,,
+Women,"132,530,700",100.0,"22,008,345",100.0,"91,116,650",100.0,"19,405,710",100.0
+".With a sensory, physical, mental, or self-care disability","16,857,190",12.7,"948,690",4.3,"8,589,760",9.4,"7,318,745",37.7
+..With a self-care disability,"3,999,815",3.0,"174,195",0.8,"1,686,690",1.9,"2,138,930",11.0
+..No self-care disability,"12,857,375",9.7,"774,495",3.5,"6,903,070",7.6,"5,179,815",26.7
+.No disability of specified type,"115,673,510",87.3,"21,059,655",95.7,"82,526,890",90.6,"12,086,965",62.3
+,,,,,,,,
+".With a sensory, physical, or mental disability","16,588,995",12.5,"912,670",4.1,"8,441,545",9.3,"7,234,780",37.3
+..All three disabilities,"1,123,710",0.8,"32,430",0.1,"343,850",0.4,"747,435",3.9
+..With two disabilities: sensory and physical,"1,332,530",1.0,"9,415",0.0,"358,810",0.4,"964,300",5.0
+..With two disabilities: sensory and mental,"299,535",0.2,"41,510",0.2,"137,600",0.2,"120,425",0.6
+..With two disabilities: physical and mental,"2,292,305",1.7,"66,455",0.3,"1,310,570",1.4,"915,280",4.7
+..With sensory disability only,"1,741,460",1.3,"116,835",0.5,"895,525",1.0,"729,100",3.8
+..With physical disability only,"7,281,240",5.5,"95,315",0.4,"3,857,405",4.2,"3,328,525",17.2
+..With mental disability only,"2,518,215",1.9,"550,715",2.5,"1,537,790",1.7,"429,710",2.2

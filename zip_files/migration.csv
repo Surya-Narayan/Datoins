@@ -1,0 +1,16 @@
+table with row headers in column B and column headers in rows 8 through 9.  (leading dots indicate sub-parts),,,,,,,,,
+"Census 2000 PHC-T-23.  Migration by Sex and Age for the Population 5 Years and Over for the United States, Regions, States, and Puerto Rico: 2000",,,,,,,,,
+Table 2.  Gross and Net Migration by Sex for the Population 5 Years and Over for Puerto Rico: 2000,,,,,,,,,
+,,,,,,,,,
+"Source: U. S. Census Bureau, Census 2000, special tabulation.",,,,,,,,,
+"Internet release date:  August 6, 2003",,,,,,,,,
+"[Data based on a sample. For information on confidentiality protection, sampling error, nonsampling error, and definitions, see http://www.census.gov/prod/cen2000/doc/sf3.pdf]",,,,,,,,,
+FIPS State Code ,Geographic Area ,Population 5 years and over,Same residence	 (nonmovers),Different residence 5 years ago,,,,,
+,,,,Total movers,Different residence in same geographic area (Puerto Rico),From state in the United States,To state in the United States1/,5-year net migration between Puerto Rico and the United States1/,From outside the United States and Puerto Rico2/
+,,,,,,,,,
+72,Puerto Rico," 3,515,228 "," 2,560,034 "," 955,194 "," 820,514 "," 112,788 "," 242,973 ","-130,185 "," 21,892 "
+,. Male," 1,681,373 "," 1,217,401 "," 463,972 "," 391,947 "," 61,342 "," 125,712 ","-64,370 "," 10,683 "
+,. Female," 1,833,855 "," 1,342,633 "," 491,222 "," 428,567 "," 51,446 "," 117,261 ","-65,815 "," 11,209 "
+Footnotes:,,,,,,,,,
+1/	Data in this column are not included in total movers.,,,,,,,,,
+"2/  This category includes movers from foreign countries, as well as movers from U.S. Island Areas and U.S. minor outlying islands.",,,,,,,,,
